@@ -15,3 +15,4 @@ def main(filename):
             if factors:
                 for factor_pair in factors:
                     print(f"{number}={factor_pair[0]}*{factor_pair[1]}")
+
